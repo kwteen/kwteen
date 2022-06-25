@@ -31,7 +31,9 @@ Seja bem-vindo à minha página do GitHub! Eu sou o Will e atualmente estou term
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 <br />
-:construction: Perfil em obras... Vamos tomar um café? :construction:
+
+![Snake animation](https://github.com/kwteen/kwteen/blob/output/github-contribution-grid-snake.svg)
+
 
 -----------------------------------------
 
