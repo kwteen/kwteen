@@ -32,7 +32,7 @@ Seja bem-vindo à minha página do GitHub! Eu sou o Will e atualmente estou term
 </p>
 <br />
 
-![Snake animation](https://github.com/kwteen/kwteen/blob/output/github-contribution-grid-snake.svg)
+
 
 
 -----------------------------------------
