@@ -16,7 +16,7 @@ Seja bem-vindo à minha página do GitHub! Eu sou o Will e atualmente estou term
 #### :computer: Linguagens de programação e ferramentas: 
 <p>
   
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&hide_border=true" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=kwteen&show_icons=true&hide_border=true" />
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
