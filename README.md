@@ -1,5 +1,5 @@
 ### Olá, meu nome é Will! :shipit:
-
+img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kwteen)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kwteengbi@gmail.com)
