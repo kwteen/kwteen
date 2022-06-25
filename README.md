@@ -2,9 +2,9 @@
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mr-maike)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maike.h.belarmino@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kwteengbi@gmail.com)
 
-Seja bem-vindo à minha página do GitHub! Eu sou o Mike e atualmente estou terminando o Ensino Médio
+Seja bem-vindo à minha página do GitHub! Eu sou o Will e atualmente estou terminando o Ensino Médio
 
 
 
