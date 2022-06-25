@@ -1,4 +1,5 @@
 ### Olá, meu nome é Will! :shipit:
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kwteen)
 
@@ -7,7 +8,7 @@
 Seja bem-vindo à minha página do GitHub! Eu sou o Will e atualmente estou terminando o Ensino Médio
 
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
+
 #### 🌱 Coisas que estou trabalhando atualmente:
   - Finalização do Ensino médio;
   - Estudando as linguagens de programação C, C++ e Python;
